@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T08:38:41.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="kA7SDMfYgHNMCI1Sr-S1" version="13.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-20T08:39:10.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="MtwXlptS56wWht0aUiuF" version="13.8.0" type="github" pages="4">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="add/edit conn/operation">
     <mxGraphModel dx="965" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,9 +137,6 @@
         </mxCell>
         <mxCell id="Z-1cQ-r5zo5-4ZppIqJF-21" value="XML" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;" vertex="1" parent="xbg60IDcu2aKG56y14EV-34">
           <mxGeometry x="214" y="109" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-1cQ-r5zo5-4ZppIqJF-22" value="Disabled radio" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;fontColor=#6C767D;checkedFill=#0085FC;checkedStroke=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="404" y="100" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
