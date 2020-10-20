@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T08:16:41.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3Wdt5TSrWQBuNJ7-LX6n" version="13.8.0" type="github" pages="4">
-  <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
-    <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-10-20T08:38:41.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="kA7SDMfYgHNMCI1Sr-S1" version="13.8.0" type="github" pages="4">
+  <diagram id="piDafpqhtRUU5qUU-vj8" name="add/edit conn/operation">
+    <mxGraphModel dx="965" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="xbg60IDcu2aKG56y14EV-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" parent="xbg60IDcu2aKG56y14EV-2" vertex="1">
           <mxGeometry x="100.5" y="120" width="400" height="358" as="geometry" />
         </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-6" value="Fishbowl Login" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=none;resizeWidth=1;" parent="xbg60IDcu2aKG56y14EV-5" vertex="1">
+        <mxCell id="xbg60IDcu2aKG56y14EV-6" value="Add/Edit Connection" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=none;resizeWidth=1;" parent="xbg60IDcu2aKG56y14EV-5" vertex="1">
           <mxGeometry width="400" height="30" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xbg60IDcu2aKG56y14EV-7" value="" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;" parent="xbg60IDcu2aKG56y14EV-6" vertex="1">
@@ -94,9 +94,9 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xbg60IDcu2aKG56y14EV-34" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" parent="xbg60IDcu2aKG56y14EV-31" vertex="1">
-          <mxGeometry x="100.5" y="125" width="599.5" height="430" as="geometry" />
+          <mxGeometry x="160" y="125" width="599.5" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-35" value="Fishbowl Activity Execution" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=none;resizeWidth=1;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
+        <mxCell id="xbg60IDcu2aKG56y14EV-35" value="Add/Edit Operation" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=none;resizeWidth=1;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
           <mxGeometry width="599.5" height="30" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xbg60IDcu2aKG56y14EV-36" value="" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;" parent="xbg60IDcu2aKG56y14EV-35" vertex="1">
@@ -114,59 +114,37 @@
             <mxPoint x="-0.11999999999999744" y="-33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-39" value="Fishbowl APIs" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry width="149.875" height="20" relative="1" as="geometry">
-            <mxPoint x="119.5" y="200" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-41" value="Name:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry width="149.875" height="20" relative="1" as="geometry">
-            <mxPoint x="119.5" y="249" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-42" value="&lt;pre style=&quot;font-family: monospace , monospace ; color: rgb(0 , 0 , 0) ; border: 1px solid rgb(234 , 236 , 240) ; padding: 1em ; line-height: 1.3 ; font-size: 14px&quot;&gt;PartList&lt;/pre&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry width="420" height="30" relative="1" as="geometry">
-            <mxPoint x="119.5" y="271.5" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xbg60IDcu2aKG56y14EV-45" value="Display Name:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry width="149.875" height="20" relative="1" as="geometry">
-            <mxPoint x="119.5" y="44" as="offset" />
+          <mxGeometry width="179.88" height="20" relative="1" as="geometry">
+            <mxPoint x="50" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-46" value="FishbowlLogin" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry width="410" height="25" relative="1" as="geometry">
-            <mxPoint x="119.5" y="64" as="offset" />
+        <mxCell id="xbg60IDcu2aKG56y14EV-46" value="ExecuteQueryRq" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
+          <mxGeometry width="490" height="25" relative="1" as="geometry">
+            <mxPoint x="50" y="69" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-50" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;ExecuteQueryRq&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry x="119.5" y="219.04999999999998" width="220.5" height="32.25" as="geometry" />
         </mxCell>
         <mxCell id="xbg60IDcu2aKG56y14EV-51" value="" style="strokeWidth=1;shadow=0;dashed=0;align=right;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
           <mxGeometry width="400" height="70" relative="1" as="geometry">
             <mxPoint x="119.5" y="114" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-66" value="&lt;p style=&quot;line-height: 100%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=left;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry x="119.5" y="90" width="470.5" height="110" as="geometry" />
+        <mxCell id="Z-1cQ-r5zo5-4ZppIqJF-13" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;FbiJson&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;Ticket&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Key&quot;:&quot;xTypHT/pZXZy6Re+H66kSA==&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;FbiMsgsRq&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;ExecuteQueryRq&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Query&quot;:&quot;SELECT part.num AS partNumber,&amp;nbsp;&lt;span&gt;part.description AS&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;partDescription&amp;nbsp;&lt;/span&gt;&lt;span&gt;FROM part&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="xbg60IDcu2aKG56y14EV-34">
+          <mxGeometry x="50" y="140" width="490" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-67" value="Query:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry width="149.875" height="20" relative="1" as="geometry">
-            <mxPoint x="119.5" y="304" as="offset" />
-          </mxGeometry>
+        <mxCell id="Z-1cQ-r5zo5-4ZppIqJF-20" value="Json" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=1;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;" vertex="1" parent="xbg60IDcu2aKG56y14EV-34">
+          <mxGeometry x="90" y="109" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-68" value="&lt;pre style=&quot;font-family: monospace , monospace ; color: rgb(0 , 0 , 0) ; border: 1px solid rgb(234 , 236 , 240) ; padding: 1em ; line-height: 1.3 ; font-size: 14px&quot;&gt;SELECT part.num AS partNumber, &lt;br/&gt;part.description AS partDescription FROM part&lt;/pre&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry width="420" height="60" relative="1" as="geometry">
-            <mxPoint x="119.5" y="326.5" as="offset" />
-          </mxGeometry>
+        <mxCell id="Z-1cQ-r5zo5-4ZppIqJF-21" value="XML" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;" vertex="1" parent="xbg60IDcu2aKG56y14EV-34">
+          <mxGeometry x="214" y="109" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xbg60IDcu2aKG56y14EV-74" value="&lt;div&gt;Returns results of sql query in csv format.&amp;nbsp;&lt;/div&gt;&lt;div&gt;The ExecuteQueryRq can run a query saved in the&amp;nbsp;&lt;span&gt;Data module, or a custom query included in the request.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The Data module may be helpful for testing queries and&amp;nbsp;&lt;span&gt;extracting queries based on reports.&lt;/span&gt;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="xbg60IDcu2aKG56y14EV-34" vertex="1">
-          <mxGeometry x="119.5" y="99" width="410.5" height="81" as="geometry" />
+        <mxCell id="Z-1cQ-r5zo5-4ZppIqJF-22" value="Disabled radio" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;fontColor=#6C767D;checkedFill=#0085FC;checkedStroke=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="404" y="100" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="cOPtwAkg0Kdxt2TqfUwZ" name="Page-2">
+  <diagram id="cOPtwAkg0Kdxt2TqfUwZ" name="General">
     <mxGraphModel dx="965" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K3ktPv_Pdh66nkRiNWiO-0" />
@@ -259,7 +237,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ttPea2kwh3manhoEUqXu" name="Page-3">
+  <diagram id="ttPea2kwh3manhoEUqXu" name="Connections">
     <mxGraphModel dx="965" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RSEnGkRuGqIAr5BndYnw-0" />
@@ -326,7 +304,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="c5vXvBP-8Ksa3feJzn8Z" name="Page-4">
+  <diagram id="c5vXvBP-8Ksa3feJzn8Z" name="Operations">
     <mxGraphModel dx="965" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="wGtBOeBQ6HNWju7Ces5H-0" />
